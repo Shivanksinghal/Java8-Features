@@ -1,2 +1,2 @@
 # Java8-Features
-This Repository contains sample Java code for Java8 Features such as lambda expressions, functional interfaces, stream api, etc.
+This Repository contains sample Java programs for Java8 Features such as lambda expressions, functional interfaces, stream api, etc.
